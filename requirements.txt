@@ -1,0 +1,7 @@
+pandas
+pyautogui
+streamlit
+openpyxl
+babel
+plotly
+streamlit-aggrid
