@@ -5,4 +5,4 @@ altair==4.2.2
 openpyxl
 babel
 plotly
-streamlit-aggrid==0.3.4
+
