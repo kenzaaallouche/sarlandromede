@@ -303,6 +303,9 @@ with col2:
 		 'SETIHI OUSSAMA',
 		 'BOUGRA YOUNES',
 	 'MEZIANE BOUDJEMAA',
+		 'MECHAKOU RAFIK',
+		'GHERDAOUI OUSSAMA',
+		 'MEHTOUK KEDOUR',
 	 
 	
 
@@ -362,6 +365,9 @@ with col3:
 		 'SETIHI OUSSAMA',
 		 'BOUGRA YOUNES',
 	 'MEZIANE BOUDJEMAA',
+			'MECHAKOU RAFIK',
+		'GHERDAOUI OUSSAMA',
+		 'MEHTOUK KEDOUR',
 
 
         ),
@@ -399,6 +405,7 @@ if st.button('EXECUTE'):
                                    # data=fill ,
                                     #file_name= 'df_test.xlsx',
                                    # mime="text/xlsx")
+
 
 
 
