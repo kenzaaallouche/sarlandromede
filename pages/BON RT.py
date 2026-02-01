@@ -204,6 +204,9 @@ with col2:
 		 'SETIHI OUSSAMA',
 		 'BOUGRA YOUNES',
 	 'MEZIANE BOUDJEMAA',
+		 'MECHAKOU RAFIK',
+		'GHERDAOUI OUSSAMA',
+		 'MEHTOUK KEDOUR',
 	 
         ),
         key="v2",
@@ -259,7 +262,10 @@ with col3:
 		 'GUENDOUZ ABDERRAHMANE',
 		 'SETIHI OUSSAMA',
 		 'BOUGRA YOUNES',
-	 'MEZIANE BOUDJEMAA',),
+	 'MEZIANE BOUDJEMAA',
+		'MECHAKOU RAFIK',
+		'GHERDAOUI OUSSAMA',
+		 'MEHTOUK KEDOUR',),
         key="v3",
         
     )
@@ -285,5 +291,6 @@ if st.button('EXECUTE'):
                         data=template_byte,
                         file_name=option1+'.xlsx',
                         )
+
 
 
