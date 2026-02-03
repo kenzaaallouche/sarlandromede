@@ -208,6 +208,9 @@ with col2:
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
 		 'GHEMRAOUI OUSSAMA',
+		 'RAHEM HOCINE',
+		 'CHENCHANE NOH',
+		 'SEBOUH BILLEL',
 	 
         ),
         key="v2",
@@ -267,7 +270,11 @@ with col3:
 		'MECHAKOU RAFIK',
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
-		'GHEMRAOUI OUSSAMA',),
+		'GHEMRAOUI OUSSAMA',
+		 'RAHEM HOCINE',
+		 'CHENCHANE NOH',
+		 'SEBOUH BILLEL',
+		),
         key="v3",
         
     )
@@ -293,6 +300,7 @@ if st.button('EXECUTE'):
                         data=template_byte,
                         file_name=option1+'.xlsx',
                         )
+
 
 
 
