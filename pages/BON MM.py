@@ -307,6 +307,9 @@ with col2:
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
 		 'GHEMRAOUI OUSSAMA',
+		 'RAHEM HOCINE',
+		 'CHENCHANE NOH',
+		 'SEBOUH BILLEL',
 	 
 	
 
@@ -370,7 +373,9 @@ with col3:
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
 			'GHEMRAOUI OUSSAMA',
-
+		 'RAHEM HOCINE',
+		 'CHENCHANE NOH',
+		 'SEBOUH BILLEL',
 
         ),
         key="v3",
@@ -407,6 +412,7 @@ if st.button('EXECUTE'):
                                    # data=fill ,
                                     #file_name= 'df_test.xlsx',
                                    # mime="text/xlsx")
+
 
 
 
