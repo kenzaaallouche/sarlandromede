@@ -306,6 +306,7 @@ with col2:
 		 'MECHAKOU RAFIK',
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
+		 'GHEMRAOUI OUSSAMA',
 	 
 	
 
@@ -368,6 +369,7 @@ with col3:
 			'MECHAKOU RAFIK',
 		'GHERDAOUI OUSSAMA',
 		 'MEHTOUK KEDOUR',
+			'GHEMRAOUI OUSSAMA',
 
 
         ),
@@ -405,6 +407,7 @@ if st.button('EXECUTE'):
                                    # data=fill ,
                                     #file_name= 'df_test.xlsx',
                                    # mime="text/xlsx")
+
 
 
 
